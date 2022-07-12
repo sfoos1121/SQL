@@ -1,0 +1,1 @@
+These scripts were created against the Wide World Importers sample database provided by Microsoft
