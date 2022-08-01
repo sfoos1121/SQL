@@ -21,4 +21,3 @@ from Dimension.Customer c
 select p.[Payment Days], p.Supplier
 
 from Dimension.Supplier p
-
